@@ -35,5 +35,4 @@ IT student
 
 <a href="https://github.com/hedir-ben-mooussa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedir-ben-mooussa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/paytonpierce"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paytonpierce" /></a></p><br><br>
+
