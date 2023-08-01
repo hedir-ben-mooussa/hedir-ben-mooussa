@@ -1,12 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hedir
 =============================================================================================================================
 
-IT student
+
+   IT student
 ----------
+<p align="center"><img width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"></p>
 
 * ✉️  You can contact me at [hedirbnms@gmail.com](mailto:hedirbnms@gmail.com)
 * 🧠  I'm learning Angular/Spring Boot
 * 🤝  I'm open to collaborating on open source projects
+
 
 ### Skills
 
